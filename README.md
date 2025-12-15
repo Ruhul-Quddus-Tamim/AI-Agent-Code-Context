@@ -1,5 +1,7 @@
 # Code Generation Agent
 
+Context is KING!
+
 A coding agent that writes and executes Python code locally on your machine. The agent can manage files, execute code, and handle errors through iterative feedback loops.
 
 ## Features
